@@ -1,3 +1,10 @@
+Welcome to crosh, the chrome os developer shell.
+If you get here by mistake, don't panic! just close this tab and carry on.
+type 'help' for a list of commands.
+if you want to customize the look/behavior, you can use the options page.
+Load it by using ctrl-shift-P Keyboard shortcut.
+crosh
+
 ## Welcome to Viperbot2000's webpage
 
 here is my scratch
